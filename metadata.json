@@ -1,0 +1,6 @@
+{
+  "name": "Doraemon: New Nobita and the Castle of the Undersea Devil",
+  "description": "An immersive cinematic 3D underwater journey into Doraemon the Movie: New Nobita and the Castle of the Undersea Devil (映画ドラえもん 新・のび太の海底鬼岩城).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

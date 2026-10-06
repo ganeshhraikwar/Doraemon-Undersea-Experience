@@ -1,0 +1,31 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+html {
+  scroll-behavior: smooth;
+  background-color: #020617;
+  color: #f8fafc;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #020617;
+}
+
+/* Custom subtle oceanic scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0369a1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0284c7;
+}
